@@ -1,2 +1,2 @@
 # RecyclerView-Tutorial
-Tutorial mini app fo RecyclerView consept with java 
+Tutorial mini app for RecyclerView concept with java 
